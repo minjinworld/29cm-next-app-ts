@@ -40,3 +40,14 @@
 - Next.js에서 권장하는 `Client Component` 선언 (`"use client"`)
 - 동적 라우팅 `/order/[id]` 페이지에서 상태 초기화 대응 포함
 - `count` 등 구매 수량 조절 UI 상태도 분리 적용
+
+**🎯 배포 링크**
+
+👉 https://29cm-next-app-ts.vercel.app/
+👉 [https://29cm-next-app-ts.vercel.app/](https://29cm-next-app-ts.vercel.app/)
+
+---
+
+🙋‍♀️ 제작자
+
+이민진

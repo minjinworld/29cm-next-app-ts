@@ -622,4 +622,16 @@ img {
   .order .bottom_image {
     width: 100%;
   }
+
+    .user_nav span {
+    display: none;
+  }
+
+  .logo img {
+    object-fit: contain;
+  }
+
+  button {
+    color: #1a1a1e;
+  }
 }
